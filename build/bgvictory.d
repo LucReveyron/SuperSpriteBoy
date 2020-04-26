@@ -1,0 +1,1 @@
+bgvictory.o: bgvictory.s

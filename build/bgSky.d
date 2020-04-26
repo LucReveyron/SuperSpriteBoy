@@ -1,0 +1,1 @@
+bgSky.o: bgSky.s

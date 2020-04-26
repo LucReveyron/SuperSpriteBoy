@@ -1,0 +1,17 @@
+#define MOD_DS1	0
+#define MOD_DS2	1
+#define MOD_DS4	2
+#define MOD_DS5	3
+#define MOD_DS6	4
+#define SFX_FALLFX	59
+#define MOD_GAMEOVER	5
+#define SFX_JUMPFX	72
+#define SFX_OBSTACLEFX	73
+#define SFX_QUITFX	74
+#define MOD_QUIT	6
+#define SFX_STARTFX	87
+#define MOD_START	7
+#define MOD_VICTORY	8
+#define MSL_NSONGS	9
+#define MSL_NSAMPS	112
+#define MSL_BANKSIZE	121

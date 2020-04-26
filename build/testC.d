@@ -1,0 +1,1 @@
+testC.o: testC.s

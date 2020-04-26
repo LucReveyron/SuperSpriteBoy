@@ -1,0 +1,1 @@
+bgMenu.o: bgMenu.s
